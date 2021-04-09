@@ -1,4 +1,4 @@
-package com.coinplug.system.filter.accesslog;
+package io.omnipede.system.filter.accesslog;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

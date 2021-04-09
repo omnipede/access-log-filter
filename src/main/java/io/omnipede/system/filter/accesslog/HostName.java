@@ -1,4 +1,4 @@
-package com.coinplug.system.filter.accesslog;
+package io.omnipede.system.filter.accesslog;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

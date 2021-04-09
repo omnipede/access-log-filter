@@ -1,9 +1,9 @@
-package com.coinplug;
+package io.omnipede;
 
-import com.coinplug.system.filter.accesslog.AccessLog;
-import com.coinplug.system.filter.accesslog.AccessLogFilter;
-import com.coinplug.system.filter.accesslog.AccessLogFilterConfigurer;
-import com.coinplug.system.filter.accesslog.AccessLogger;
+import io.omnipede.system.filter.accesslog.AccessLog;
+import io.omnipede.system.filter.accesslog.AccessLogFilter;
+import io.omnipede.system.filter.accesslog.AccessLogFilterConfigurer;
+import io.omnipede.system.filter.accesslog.AccessLogger;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;

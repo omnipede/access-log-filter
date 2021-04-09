@@ -1,4 +1,4 @@
-package com.coinplug;
+package io.omnipede;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

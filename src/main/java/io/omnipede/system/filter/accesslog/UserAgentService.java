@@ -1,4 +1,4 @@
-package com.coinplug.system.filter.accesslog;
+package io.omnipede.system.filter.accesslog;
 
 import nl.basjes.parse.useragent.UserAgent;
 import nl.basjes.parse.useragent.UserAgentAnalyzer;
