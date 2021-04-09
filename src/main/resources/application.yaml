@@ -1,0 +1,7 @@
+spring:
+  # Not found endpoint 에 대해 에러 throw 하도록 설정
+  resources:
+    add-mappings: false
+  mvc:
+    throw-exception-if-no-handler-found: true
+    dispatch-options-request: false
